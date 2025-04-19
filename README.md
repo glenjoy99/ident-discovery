@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Identitfier Discovery Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed and can be accessed here: https://genuine-baklava-4a9c9a.netlify.app/
 
 ## Available Scripts
 
